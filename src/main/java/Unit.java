@@ -1,3 +1,3 @@
-public enum UnitType {
-    KG, L, PCS
+public enum Unit {
+    PCS, KG, L
 }
